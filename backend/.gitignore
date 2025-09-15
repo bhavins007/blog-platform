@@ -1,0 +1,22 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# System files (Windows)
+Thumbs.db
+Desktop.ini
+AppData/
+
+# IDE/editor files (optional)
+.vscode/
+.idea/
+
+# Build outputs (if any)
+dist/
+build/

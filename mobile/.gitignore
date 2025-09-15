@@ -1,0 +1,9 @@
+# Flutter/React Native
+build/
+*.log
+*.tmp
+AppData/
+
+# Editor settings
+.vscode/
+.idea/
